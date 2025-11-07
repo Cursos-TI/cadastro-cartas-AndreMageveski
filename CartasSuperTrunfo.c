@@ -63,7 +63,7 @@ int main() {
         "Nome da cidade: %s \n"
         "População: %d \n"
         "Área: %f km² \n"
-        "PIB: %f \n"
+        "PIB: %f bilhões de reais\n"
         "Número de pontos turisticos: %d \n",
         estado1, codigo1, cidade1, populacao1, area1, pib1, turismo1);
 
@@ -74,7 +74,7 @@ int main() {
         "Nome da cidade: %s \n"
         "População: %d \n"
         "Área: %f km² \n"
-        "PIB: %f \n"
+        "PIB: %f bilhões de reais \n"
         "Número de pontos turisticos: %d \n",
         estado2, codigo2, cidade2, populacao2, area2, pib2, turismo2);  
 
