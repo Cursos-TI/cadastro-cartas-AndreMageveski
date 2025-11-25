@@ -98,7 +98,7 @@ int main(){
             "Pontos Turísticos: Carta %d venceu (%d)\n"
             "Densidade Populacional: Carta %d venceu (%d)\n"
             "PIB per Capita: Carta %d venceu (%d)\n"
-            "Super Poder: Carta %d venceu (%d)\n", comp_populacao ?1:2, comp_populacao, comp_area ?1:2, comp_area, comp_pib ?1:2, comp_pib, comp_turismo ?1:2, comp_turismo, comp_densidade ?1:2, comp_densidade, comp_percapita ?1:2, comp_percapita, comp_poder ?1:2, comp_percapita);
+            "Super Poder: Carta %d venceu (%d)\n", comp_populacao ?1:2, comp_populacao, comp_area ?1:2, comp_area, comp_pib ?1:2, comp_pib, comp_turismo ?1:2, comp_turismo, comp_densidade ?1:2, comp_densidade, comp_percapita ?1:2, comp_percapita, comp_poder ?1:2, comp_poder);
 
     return 0;
 
